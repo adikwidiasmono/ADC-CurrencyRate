@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="currency_aray">
+        <item>IDR - Indonesia Rupiah</item>
+        <item>AUD - Australia Dollar</item>
+        <item>BGN - Bulgaria Lev</item>
+        <item>BRL - Brazil Real</item>
+        <item>CAD - Canada Dollar</item>
+        <item>CHF - Switzerland Franc</item>
+        <item>CNY - China Yuan Renminbi</item>
+        <item>CZK - Czech Republic Koruna</item>
+        <item>DKK - Denmark Krone</item>
+        <item>EUR - Euro Member Countries</item>
+        <item>GBP - United Kingdom Pound</item>
+        <item>HKD - Hong Kong Dollar</item>
+        <item>HRK - Croatia Kuna</item>
+        <item>HUF - Hungary Forint</item>
+        <item>ILS - Israel Shekel</item>
+        <item>INR - India Rupee</item>
+        <item>JPY - Japan Yen</item>
+        <item>KRW - Korea (South) Won</item>
+        <item>MXN - Mexico Peso</item>
+        <item>MYR - Malaysia Ringgit</item>
+        <item>NOK - Norway Krone</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>PHP - Philippines Peso</item>
+        <item>PLN - Poland Zloty</item>
+        <item>RON - Romania New Leu</item>
+        <item>RUB - Russia Ruble</item>
+        <item>SEK - Sweden Krona</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>THB - Thailand Baht</item>
+        <item>TRY - Turkey Lira</item>
+        <item>USD - United States Dollar</item>
+        <item>ZAR - South Africa Rand</item>
+    </string-array>
+    
+    <string name="app_name">ADC - Currency Rate</string>
+    <string name="action_settings">Settings</string>
+</resources>
