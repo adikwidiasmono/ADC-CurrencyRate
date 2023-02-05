@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADC Currency</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_conversion">Conversion</string>
+
+    <string name="err_offline">You are offline</string>
+
+    <string name="today_rate">Today\'s Rate</string>
+    <string name="convert">Convert</string>
+</resources>
